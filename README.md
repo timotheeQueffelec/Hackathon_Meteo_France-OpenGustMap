@@ -16,7 +16,7 @@ On rentre une adresse (normalisée et géocodée par la BAN) et une période dé
 ## Source de données
 Les données horaires d’observation météo historiques pour le vent maxi et moyen par station, les données BDALTI de l’IGN pour l’altitude de la station et de l’adresse, la BAN pour normaliser et géocoder l’adresse saisie.
 
-API Météo france pour les données : https://portail-api.meteofrance.fr/web/fr/
+API Météo france pour les données : https://portail-api.meteofrance.fr/web/fr/   
 Carte de relief (MNT) IGN : https://geoservices.ign.fr/bdalti
 
 ## Méthode utilisée
