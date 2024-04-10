@@ -1,6 +1,6 @@
 # Hackathon Météo France 
 
-![Station_Météo_France__1_-removebg-preview](https://github.com/timotheeQueffelec/Hackathon_Meteo_France-OpenGustMap/assets/91546014/818c1f48-044e-46ed-beea-35142c3f092c)
+![image_demo_github2-removebg-preview](https://github.com/timotheeQueffelec/Hackathon_Meteo_France-OpenGustMap/assets/91546014/86329574-f7f4-464a-a54b-7dcc5a4b5300)
 
 
 ## Contexte
