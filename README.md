@@ -31,3 +31,7 @@ Le point XY de l’adresse géocodée est rapproché du point le plus proche de 
 ## Usages possibles
 Estimer la vitesse de vent maxi et moyenne à une adresse donnée en France, heure par heure sur une période donnée.
 Cette solution s'adresse aux assurés et aux assureurs pour attester du vent observé en cas de sinistre pour la prise en charge (ou non) des dégâts au titre de la garantie tempête. La transparence de l'information (donnée et méthode de calcul) permettra d'améliorer la relation client et de réduire les coûts (prestation d'une attestation météo ~150k€/an pour l'assureur)
+
+## Visualisation
+
+Prototype de visualisation application : https://www.figma.com/proto/wytp1BghAtcLdcMKE67OV2/OpenGustMap
