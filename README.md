@@ -1,4 +1,8 @@
 # Hackathon Météo France 
+
+
+![image](https://github.com/timotheeQueffelec/Hackathon_Meteo_France-OpenGustMap/assets/91546014/f2bc2291-795d-4595-801c-60b78bf2d401)
+
 ## Contexte
 Ce projet (OpenGustMap) a été réalisé dans le cadre du Hackathon Météo France du 08 et 09 avril 2024.
 Le lien vers le repo contenant le code et la présentation est : documentation GitHub
